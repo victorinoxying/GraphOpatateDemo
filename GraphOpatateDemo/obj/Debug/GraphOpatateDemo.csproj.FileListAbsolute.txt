@@ -1,0 +1,9 @@
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\bin\Debug\GraphOpatateDemo.exe.config
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\bin\Debug\GraphOpatateDemo.exe
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\bin\Debug\GraphOpatateDemo.pdb
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.csprojResolveAssemblyReference.cache
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.GraphDemo.resources
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.Properties.Resources.resources
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.csproj.GenerateResource.Cache
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.exe
+D:\c#\GraphOpatateDemo\GraphOpatateDemo\obj\Debug\GraphOpatateDemo.pdb
